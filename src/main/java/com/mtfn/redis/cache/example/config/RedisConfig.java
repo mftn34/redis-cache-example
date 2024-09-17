@@ -1,4 +1,4 @@
-package com.mtfn.exception.redis.cache.example.config;
+package com.mtfn.redis.cache.example.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cache.CacheManager;

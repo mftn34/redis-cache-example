@@ -1,8 +1,8 @@
-package com.mtfn.exception.redis.cache.example.service;
+package com.mtfn.redis.cache.example.service;
 
-import com.mtfn.exception.redis.cache.example.domain.entity.Store;
-import com.mtfn.exception.redis.cache.example.exception.StoreNotFoundException;
-import com.mtfn.exception.redis.cache.example.domain.repository.StoreRepository;
+import com.mtfn.redis.cache.example.domain.entity.Store;
+import com.mtfn.redis.cache.example.exception.StoreNotFoundException;
+import com.mtfn.redis.cache.example.domain.repository.StoreRepository;
 import lombok.*;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

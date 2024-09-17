@@ -1,6 +1,6 @@
-package com.mtfn.exception.redis.cache.example.domain.repository;
+package com.mtfn.redis.cache.example.domain.repository;
 
-import com.mtfn.exception.redis.cache.example.domain.entity.Store;
+import com.mtfn.redis.cache.example.domain.entity.Store;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

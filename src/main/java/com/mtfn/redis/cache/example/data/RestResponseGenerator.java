@@ -1,6 +1,6 @@
-package com.mtfn.exception.redis.cache.example.data;
+package com.mtfn.redis.cache.example.data;
 
-import com.mtfn.exception.redis.cache.example.enums.ErrorCode;
+import com.mtfn.redis.cache.example.enums.ErrorCode;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;

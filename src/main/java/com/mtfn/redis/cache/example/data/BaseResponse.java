@@ -1,4 +1,4 @@
-package com.mtfn.exception.redis.cache.example.data;
+package com.mtfn.redis.cache.example.data;
 
 import lombok.*;
 

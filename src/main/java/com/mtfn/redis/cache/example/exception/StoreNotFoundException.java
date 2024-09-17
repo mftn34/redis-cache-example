@@ -1,4 +1,4 @@
-package com.mtfn.exception.redis.cache.example.exception;
+package com.mtfn.redis.cache.example.exception;
 
 public class StoreNotFoundException extends RuntimeException {
 
