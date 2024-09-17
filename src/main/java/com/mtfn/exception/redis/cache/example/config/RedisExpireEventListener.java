@@ -1,4 +1,4 @@
-package com.mtfn.exception.handler.config;
+package com.mtfn.exception.redis.cache.example.config;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,8 +1,8 @@
-package com.mtfn.exception.handler.exception;
+package com.mtfn.exception.redis.cache.example.exception;
 
 import com.fasterxml.jackson.databind.JsonMappingException;
-import com.mtfn.exception.handler.data.RestResponseGenerator;
-import com.mtfn.exception.handler.enums.ErrorCode;
+import com.mtfn.exception.redis.cache.example.data.RestResponseGenerator;
+import com.mtfn.exception.redis.cache.example.enums.ErrorCode;
 import jakarta.validation.ConstraintViolationException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

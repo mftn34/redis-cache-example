@@ -1,1 +1,1 @@
-# redis example
+# Exception handler example

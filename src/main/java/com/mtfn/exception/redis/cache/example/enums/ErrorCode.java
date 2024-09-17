@@ -1,4 +1,4 @@
-package com.mtfn.exception.handler.enums;
+package com.mtfn.exception.redis.cache.example.enums;
 
 public enum ErrorCode {
   METHOD_ARGUMENT_NOT_VALID_EXCEPTION("0001", "MethodArgumentNotValidException"),

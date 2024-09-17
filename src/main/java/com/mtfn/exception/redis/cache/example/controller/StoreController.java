@@ -1,7 +1,7 @@
-package com.mtfn.exception.handler.controller;
+package com.mtfn.exception.redis.cache.example.controller;
 
-import com.mtfn.exception.handler.data.RestResponseGenerator;
-import com.mtfn.exception.handler.service.StoreService;
+import com.mtfn.exception.redis.cache.example.data.RestResponseGenerator;
+import com.mtfn.exception.redis.cache.example.service.StoreService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.mtfn.exception.handler.domain.entity;
+package com.mtfn.exception.redis.cache.example.domain.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
